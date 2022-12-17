@@ -1,9 +1,13 @@
 # AdonisRoleplay
+### Repositorio criado a partir das aulas do curso [Api completa com Adonis](https://www.udemy.com/course/api-completa-com-adonisjs-5-typescript-e-tdd/)
 
 ### Comando basicos
 
 #### Iniciar server
-``node ace --watch``
+``node ace serve --watch``
+
+#### Lista de todos:
+``node ace``
 
 #### Comandados basicos:
 ``node ace test``
