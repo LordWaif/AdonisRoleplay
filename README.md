@@ -21,3 +21,5 @@
 ``node ace migration:run`` 
 
 ``node ace migration:fresh``
+
+``node ace make:validator <validator>``
