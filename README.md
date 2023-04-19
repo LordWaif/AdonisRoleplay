@@ -23,3 +23,10 @@
 ``node ace migration:fresh``
 
 ``node ace make:validator <validator>``
+
+### Configurar ORM
+
+#### Lucid
+``npm i @adonisjs/lucid``
+``node ace configure @adonisjs/lucid``
+
